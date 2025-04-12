@@ -1,0 +1,47 @@
+*{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    
+ }
+ body{
+    background-color: #639eb9;
+ }
+ header{
+    width: 80%;
+    height: 20vh;
+    background-color: #fff;
+    margin-left: 10%;
+    margin-top: 5vh;
+    float: left;
+ }
+ header img{
+    width: 100%;
+ }
+ main{
+    width: 80%;
+    height: 40vh;
+    background-color: #ffffff;
+    margin-left: 10%;
+    float:left;
+ }
+ main h3{
+    margin-top: 5vh;
+    background: #ffffff;
+    text-align: center;
+ }
+ main p{
+    text-align: center;
+ }
+ main img{
+    width: 15%;
+    margin-left: 7%;
+ }
+ main button{
+   margin-top: 3vh;
+   width: 50%;
+   height: 5vh;
+   margin-left: 25%;
+   background-color: #98bfe4;
+   color: black;
+   border-radius: 18px;
+ }
+ 
